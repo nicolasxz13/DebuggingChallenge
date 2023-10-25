@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Debugging Challenge\DebuggingChallenge
 build_property._RazorSourceGeneratorDebug = 
 
+[c:/Users/nicol/Desktop/Bootcamp Coding Dojo c\#/ASP.NET Core/Debugging Challenge/DebuggingChallenge/Views/Home/Generate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZW5lcmF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/nicol/Desktop/Bootcamp Coding Dojo c\#/ASP.NET Core/Debugging Challenge/DebuggingChallenge/Views/Home/Generator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZW5lcmF0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
